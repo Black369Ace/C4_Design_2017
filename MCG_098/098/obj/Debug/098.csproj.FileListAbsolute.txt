@@ -1,0 +1,5 @@
+E:\C4_Design_2017\MCG_098\098\obj\Debug\098.csprojResolveAssemblyReference.cache
+E:\C4_Design_2017\MCG_098\098\obj\Debug\MainForm.g.cs
+E:\C4_Design_2017\MCG_098\098\obj\Debug\App.g.cs
+E:\C4_Design_2017\MCG_098\098\obj\Debug\098_MarkupCompile.cache
+E:\C4_Design_2017\MCG_098\098\obj\Debug\098_MarkupCompile.lref

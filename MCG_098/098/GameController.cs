@@ -24,7 +24,7 @@ namespace _098
 
         }
 
-        public npc()
+        public void npc()
         {
 
         }
